@@ -1,0 +1,3 @@
+app.py
+ ├ fetch_dog_image() ← logic.py
+ └ save_favorite() ← logic.py

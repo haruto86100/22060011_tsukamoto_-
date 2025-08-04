@@ -1,0 +1,3 @@
+[ユーザー] → [Streamlit UI] → [fetch_dog_image() in logic.py] → [Dog API]
+                                        ↓
+                                [save_favorite()] → [favorites.csv]
