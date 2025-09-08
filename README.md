@@ -19,5 +19,5 @@
 - アプリURL: https://rnfrf23hr8mmfwteyanph4.streamlit.app
 - GitHub URL: http://github.com/haruto86100/22060011_tsukamoto_-
 
-##課題３　犬種判定アプリ
+##　課題３　犬種判定アプリ
 https://github.com/haruto86100/22060011_tsukamoto_-/blob/main/improvement.md
